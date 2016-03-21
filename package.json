@@ -1,5 +1,5 @@
 {
-  "name": "cm_modules",
+  "name": "cm-modules",
   "version": "0.0.1",
   "description": "NodeJS modules for parsing and processing CM language files",
   "main": "index.js",
