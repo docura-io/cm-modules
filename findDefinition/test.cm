@@ -1,0 +1,13 @@
+
+
+
+public class Whatever {
+
+    HniBox box = null;
+    
+    box('hello');
+    
+    box.render3d();
+    
+    box.height = 10;
+}

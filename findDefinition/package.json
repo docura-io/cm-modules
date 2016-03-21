@@ -1,0 +1,16 @@
+{
+    "name": "variablefinder",
+    "version": "1.0.0",
+    "description": "finds var def in file",
+    "main": "/out/variableFinder.js",
+    "dependencies": {},
+    "devDependencies": {
+        "typescript": "^1.7.5"
+    },
+    "scripts": {
+        "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+        "compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
+    },
+    "author": "twlamb",
+    "license": "ISC"
+}
